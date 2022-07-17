@@ -1,0 +1,25 @@
+.MuiPagination-root{
+  display: flex;
+  justify-content: center;
+  padding:30px;
+}
+.css-1to7aaw-MuiButtonBase-root-MuiPaginationItem-root.Mui-disabled{
+    background-color: yellow;
+}
+.css-1to7aaw-MuiButtonBase-root-MuiPaginationItem-root{
+    background-color: white;
+}
+.MuiPagination-text{
+    color: white;
+}
+.MuiPagination-ul li button{
+    color:black;
+    background-color: white;
+}
+.MuiPagination-ul li button:hover{
+    color:black;
+    background-color: white;
+}
+.css-1v2lvtn-MuiPaginationItem-root{
+ background-color: white;
+}

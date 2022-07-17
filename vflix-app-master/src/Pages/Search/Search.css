@@ -1,0 +1,46 @@
+.MuiTextField-root .css-10botns-MuiInputBase-input-MuiFilledInput-input{
+    color :white;
+    flex : 1;
+    display: flex;
+    align-items: center;
+    width:100%;
+}
+.MuiTextField-root .css-19mk8g1-MuiInputBase-root-MuiFilledInput-root:before{
+    border-bottom: 1px solid white;
+}
+
+.MuiTextField-root .css-o943dk-MuiFormLabel-root-MuiInputLabel-root{
+    color:white;
+}
+
+.MuiTextField-root .css-e4w4as-MuiFormLabel-root-MuiInputLabel-root{
+    color : white;
+}
+.MuiTextField-root .Mui-focused{
+    color: white;
+}
+
+.MuiTextField-root .css-1u3bzj6-MuiFormControl-root-MuiTextField-root{
+    flex : 1;
+ 
+}
+/* .MuiTextField-root .css-19mk8g1-MuiInputBase-root-MuiFilledInput-root:after{
+
+} */
+
+.MuiTextField-root  .css-o943dk-MuiFormLabel-root-MuiInputLabel-root.Mui-focused{
+    color :white;
+    
+}
+.MuiTextField-root .css-19mk8g1-MuiInputBase-root-MuiFilledInput-root.Mui-focused{
+    background-color: rgba(255,255,255,0.15);
+}
+.MuiTextField-root .css-19mk8g1-MuiInputBase-root-MuiFilledInput-root{
+    background-color: rgba(255,255,255,0.15);
+    width:100%;
+}
+
+.css-jpln7h-MuiTabs-scroller{
+    display: flex;
+    justify-content: center;
+}

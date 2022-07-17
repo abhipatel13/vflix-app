@@ -1,0 +1,26 @@
+.header{
+    width:100%;
+    cursor: pointer;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:0;
+    text-align: center;
+    background-color: #39445a;
+    /* background: transparent; */
+    /* font-family: "Montserrat",sans-serif; */
+    font-size: 5vw;
+    padding-bottom: 15px;padding-top: 15px;
+    box-shadow: 0px 1px 5px black;
+    top:0;
+    color:white;
+    left:0;
+    z-index: 100;
+}
+
+@media only screen and (min-width: 800px) {
+   .header{
+    font-size: 40px;
+   }
+  }

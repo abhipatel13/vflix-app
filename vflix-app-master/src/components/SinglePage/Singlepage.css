@@ -1,0 +1,124 @@
+.movieSection{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+    margin-left: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 30px;
+}
+.MovieVideo{
+    display: block;
+    margin-left: auto;
+    margin-top:20px;
+    margin-bottom: 20px;;
+    margin-right: auto;
+    /* width: 50%; */
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width:100%;
+}
+.MovieImage{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.MovieImage img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.Infosgrid{
+    margin-top: 15px;
+
+
+}
+.movieTitle{
+    font-size: 40px;
+    text-align: center;
+    color:yellow;
+    font-weight: 1000;
+
+}
+.movie-infos{
+    /* margin-left:10px; */
+    text-align: center;
+    font-weight: 1000;
+    margin-top: 15px;
+
+}
+.movie-genres{
+    margin-top: 15px;;
+    color:lightgreen;
+    font-size: 23px;
+} 
+.movie-genres span{
+    margin-top:20px;
+    font-size: 23px;
+    
+}
+.movie-date{
+    
+
+}
+.movie-vote{
+ margin-left:20px ;
+}
+.movie-runtime{
+    margin-left:20px ;
+    /* margin-top:15px; */
+
+}
+.movie-tagline{
+    margin-top:15px;
+    font-size: 23px;
+}
+.movie-director{
+    margin-top:15px;
+}
+.movie-overview{
+    margin-top: 15px;
+    line-height: 1.5;
+    font-size: 23px;
+
+}
+.home-page a{
+    color :yellow;
+    text-decoration: none;
+    
+}
+.title-singlepage{
+    text-align: left;
+    margin-top:40px;
+    margin-bottom: 20px;;
+    font-size: 40px;
+    color:yellow;
+    text-align: center;
+}
+.details-title{
+    margin-top:20px;
+    font-size: 20px;
+    color:rgba(255, 255, 255, 0.7);
+}
+.details-value{
+    margin-top:10px;
+    margin-left:10px;
+}
+.nav-btn{
+    display: flex;
+    justify-content: center;
+}
+.nav-btn .btn {
+    list-style: none;
+    text-decoration: none;
+    color: red;
+    font-weight: 700;
+    font-size: 18px;
+    border: 1px solid #555;
+    border-radius: 2px;
+    background-color: #555;
+    padding: 7px;
+    -webkit-transition: .2s ease-in;
+    transition: .2s ease-in;
+}

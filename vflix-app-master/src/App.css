@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Piazzolla:opsz,wght@8..30,300&family=Prompt:wght@300&display=swap');
+*{
+  scroll-behavior: smooth;
+}
+body{
+  margin: 0px;
+  font-family: 'Piazzolla', serif;
+font-family: 'Prompt', sans-serif;
+/* background-position: center; */
+/* background: rgba(0,0,0,.4); */
+/* background-attachment: scroll; */
+background-image: linear-gradient(to top,rgba(0,0,0,2.1) 0,rgba(0,0,0,0.7) 60%,rgba(0,0,0,2.9) 100%),url("https://m.media-amazon.com/images/G/31/AmazonVideo/2019/MLP._SX1440_CR575,0,865,675_QL80_AC_FP_.jpg");
+background-repeat: no-repeat;
+/* background-color: black; */
+/* background-color: black; */
+background-position: center;
+background-size: cover;
+background-attachment: fixed; 
+/* background: url(''); */
+}
+.app{
+  min-height: 100vh;
+  /* background-color: #39445a; */
+  color:white;
+  width: 100%;
+  padding-top: 120px;
+  padding-bottom: 70px;
+ 
+  
+}
+.pageTitle{
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  font-family: "Montserrat",sans-serif;
+  font-size: 5vw;
+  /* padding: 4px; */
+  /* color: red; */
+  border-radius: 50px;;
+  color:white;
+  margin-bottom: 25px;
+  /* padding-bottom: 10px;; */
+  font-weight: 1000;
+}
+@media only screen and (max-width:450px){
+  .pageTitle{
+    font-size:25px;
+    font-weight: 1000;
+  }
+}
