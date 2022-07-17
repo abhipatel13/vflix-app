@@ -1,9 +1,8 @@
+![Screenshot (483)](https://user-images.githubusercontent.com/70934221/179384833-696cb683-564d-4591-aae4-4bcf2d9a17eb.png)
+![Screenshot (484)](https://user-images.githubusercontent.com/70934221/179384882-06e1f1e1-f3ad-4b79-9106-3ed2cb43df18.png)
+![Screenshot (485)](https://user-images.githubusercontent.com/70934221/179384914-e0598984-e66e-435f-b795-b3f57335a02b.png)
+![Screenshot (482)](https://user-images.githubusercontent.com/70934221/179384936-468d4b99-1c22-4571-aa46-09760f30007a.png)
 
-![Screenshot (465)](https://user-images.githubusercontent.com/70934221/177968105-dc246582-b5ae-4e49-bdcb-f2f4240ea02b.png)
-![Screenshot (467)](https://user-images.githubusercontent.com/70934221/177968143-1dc8ee9a-c5b3-49ec-80e2-27b2f4634633.png)![Screenshot (468)](https://user-images.githubusercontent.com/70934221/177968206-16c11d50-c4da-4fa2-bdd7-3d7981cfa2ac.png)
-![Screenshot (469)](https://user-images.githubusercontent.com/70934221/177968242-9a64d6bd-16c1-4c87-b18d-5acb7d48d528.png)
-![Screenshot (472)](https://user-images.githubusercontent.com/70934221/177968294-87f6d7dc-ddcb-4157-a4f0-6bb5386c0388.png)
-![Screenshot (463)](https://user-images.githubusercontent.com/70934221/177968417-9cac43a0-4834-48c9-ad09-69eb61c8b8b6.png)
 
 A simple ReactJS movies app based on MOVIE API to demonstrate react-query use cases as a state management library.
 
